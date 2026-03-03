@@ -74,6 +74,12 @@ extra:
   social:
     - icon: fontawesome/brands/github
       link: https://github.com/devvyyxyz
+    - icon: fontawesome/brands/discord
+      link: https://discord.gg/WmFDeMKvzj
+    - icon: fontawesome/solid/rocket
+      link: https://top.gg/bot/1476427270326583306
+    - icon: fontawesome/solid/user-plus
+      link: https://discord.com/oauth2/authorize?client_id=1476427270326583306&scope=bot%20applications.commands&permissions=0
   analytics:
     provider: google
     tracking_id: UA-XXXXX-Y
