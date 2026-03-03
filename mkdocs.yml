@@ -63,6 +63,7 @@ plugins:
       minify_html: true
   - git-authors
   - include-markdown
+  - macros
   - i18n:
       languages:
         - locale: en
@@ -90,3 +91,22 @@ extra:
   analytics:
     provider: google
     tracking_id: UA-XXXXX-Y
+
+markdown_extensions:
+  - admonition
+  - toc:
+      permalink: true
+  - codehilite:
+      guess_lang: false
+  - pymdownx.superfences
+  - pymdownx.highlight
+  - pymdownx.inlinehilite
+  - pymdownx.magiclink
+  - pymdownx.betterem
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.caret
+  - pymdownx.keys
+
+extra_css:
+  - css/extra.css
