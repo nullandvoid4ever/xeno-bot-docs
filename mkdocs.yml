@@ -8,6 +8,7 @@ theme:
   features:
     - content.action.edit
     - content.action.view
+    - navigation.tabs
   palette:
     - scheme: default
       primary: indigo
