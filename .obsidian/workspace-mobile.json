@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "docs/FAQ.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "FAQ"
             }
           }
         ]
@@ -178,6 +178,22 @@
   },
   "active": "8faf7e193c4bdd14",
   "lastOpenFiles": [
+    "docs/Page Template.md",
+    "docs/img/favicon.ico",
+    "/mkdocs.yml",
+    "/docs/img/favicon.ico",
+    "/docs/Page Template.md",
+    "/docs/FAQ.md",
+    "/README.md",
+    "/docs/img",
+    "docs/img",
+    "/docs",
+    "README.md",
+    "docs/systems",
+    "docs/setup",
+    "/docs/Contributing.md",
+    "/docs/systems",
+    "/docs/setup",
     "docs/Home.md",
     "docs/FAQ.md",
     "docs/setup/index.md",
@@ -194,25 +210,8 @@
     "docs/overview.md",
     "docs/getting-started.md",
     "docs/commands/Setup.md",
-    "mkdocs.yml",
-    "CNAME",
-    "requirements.txt",
-    "README.md",
-    "overrides/partials/content.html",
-    "overrides/partials/footer.html",
-    "overrides/partials/comments.html",
-    "overrides/partials",
-    "overrides",
     "docs/systems/database.md",
     "docs/systems/sharding.md",
-    "docs/systems/scaling.md",
-    "docs/systems/index.md",
-    "docs/systems/architecture.md",
-    "docs/systems/spawn-system.md",
-    "docs/commands/hunt.md",
-    "docs/commands/index.md",
-    "docs/commands/tutorial.md",
-    "docs/css/extra.css",
-    "docs/systems"
+    "docs/systems/scaling.md"
   ]
 }
