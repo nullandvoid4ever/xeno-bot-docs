@@ -1,7 +1,6 @@
-# Contributing to Xeno Bot
-
 Thank you for helping improve the docs and project. This file explains the recommended workflow for proposing documentation and code changes, how to run the docs locally, and how to get help.
 
+----
 ## Suggested workflow
 
 - Use the **Edit this page** link on any documentation page to propose documentation changes. That opens the source file on GitHub — make an edit and submit a pull request.

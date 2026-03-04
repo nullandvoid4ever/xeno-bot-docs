@@ -1,7 +1,6 @@
-# Installation
+This project documents the `xeno-bot` Node.js project. To run or develop the bot localy, follow the upstream repository's Node/npm instructions.
 
-
-This project documents the `xeno-bot` Node.js project. To run or develop the bot itself, follow the upstream repository's Node/npm instructions.
+----
 
 Clone the bot repository (example):
 

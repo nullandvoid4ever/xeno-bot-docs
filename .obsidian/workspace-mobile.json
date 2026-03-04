@@ -11,14 +11,14 @@
             "id": "8faf7e193c4bdd14",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": ".obsidian/plugins/obsidian-git/data.json",
-                "bFile": ".obsidian/plugins/obsidian-git/data.json",
-                "aRef": ""
+                "file": "docs/Home.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "git-pull-request",
-              "title": "Diff: data.json"
+              "icon": "lucide-file",
+              "title": "Home"
             }
           }
         ]
@@ -178,6 +178,21 @@
   },
   "active": "8faf7e193c4bdd14",
   "lastOpenFiles": [
+    "docs/FAQ.md",
+    "docs/setup/index.md",
+    "docs/Self Hosting/Deployment.md",
+    "docs/Self Hosting/Configuration.md",
+    "docs/api.md",
+    "docs/Commands.md",
+    "docs/Configuration.md",
+    "docs/Contributing.md",
+    "docs/Home.md",
+    "docs/installation.md",
+    "docs/Project History.md",
+    "docs/Version History & Changelog.md",
+    "docs/links.md",
+    "docs/overview.md",
+    "docs/getting-started.md",
     "docs/commands/Setup.md",
     "mkdocs.yml",
     "CNAME",
@@ -197,21 +212,7 @@
     "docs/commands/hunt.md",
     "docs/commands/index.md",
     "docs/commands/tutorial.md",
-    "docs/commands/developer.md",
-    "docs/commands/inventory.md",
-    "docs/commands/setup.md",
-    "docs/commands/eggs.md",
-    "docs/setup/configuration.md",
-    "docs/setup/index.md",
-    "docs/setup/deployment.md",
     "docs/css/extra.css",
-    "docs/installation.md",
-    "docs/systems",
-    "docs/links.md",
-    "docs/contributing.md",
-    "docs/configuration.md",
-    "docs/index.md",
-    "docs/getting-started.md",
-    "docs/faq.md"
+    "docs/systems"
   ]
 }

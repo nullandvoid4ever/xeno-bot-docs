@@ -1,6 +1,6 @@
-# Configuration
-
 Xeno Bot is configured via a YAML file (`config.yml`) placed at the project root or specified with `--config`.
+
+----
 
 Example `config.yml`:
 
