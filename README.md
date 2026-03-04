@@ -1,5 +1,7 @@
 # Xeno Bot Docs (MkDocs)
 
+[![Pages CI](https://github.com/devvyyxyz/xeno-bot-docs/actions/workflows/pages.yml/badge.svg)](https://github.com/devvyyxyz/xeno-bot-docs/actions/workflows/pages.yml)
+
 This repository contains the documentation site for Xeno Bot using MkDocs with the Dracula theme.
 
 Requirements
