@@ -1,9 +1,0 @@
-nav:
-  - Home: Home.md
-  - Installation: installation.md
-  - Configuration: Configuration.md
-  - Self Hosting: Self Hosting/
-  - Contributing: Contributing.md
-  - FAQ: FAQ.md
-  - Project History: Project History.md
-  - Changelog: Changelog.md
