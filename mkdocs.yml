@@ -1,5 +1,4 @@
-edit_uri: edit/main/docs/
-
+edit_uri: https://{site}/edit/{path}
 site_name: Xeno Bot Docs
 site_description: Documentation for Xeno Bot
 theme:
