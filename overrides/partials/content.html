@@ -1,6 +1,4 @@
 {# Custom content partial to add a visible "Edit this page" link and help note above the title #}
-{% include "partials/tags.html" %}
-
 {# Visible edit link and short help note for proposing edits #}
 {# Top edit button removed — edit buttons are shown beside titles now #}
 
@@ -8,6 +6,8 @@
 {% if "\x3ch1" not in page.content %}
   <h1>{{ page.title | d(config.site_name, true)}}</h1>
 {% endif %}
+{% include "partials/author.html" %}
+{% include "partials/tags.html" %}
 {{ page.content }}
 {% if page.meta and (
   page.meta.git_revision_date_localized or

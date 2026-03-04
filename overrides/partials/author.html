@@ -1,0 +1,9 @@
+{% if page.meta and page.meta.author %}
+<div class="md-page-author">
+  <span class="md-page-author__by">By</span>
+  <span class="md-page-author__name">{{ page.meta.author }}</span>
+  {% if page.meta.date %}
+    <time class="md-page-author__date" datetime="{{ page.meta.date }}">&nbsp;•&nbsp;{{ page.meta.date }}</time>
+  {% endif %}
+</div>
+{% endif %}

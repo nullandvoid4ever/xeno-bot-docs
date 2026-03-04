@@ -63,3 +63,15 @@ pre {
   font-size: .85em;
 }
 .md-page-tags .md-tag:hover { opacity: 0.9; }
+
+/* Page author styling (shows under title, above tags) */
+.md-page-author {
+  margin: 0.25rem 0 0.35rem;
+  color: var(--md-default-fg-color--light);
+  font-size: 0.95rem;
+  display: flex;
+  gap: 0.35rem;
+  align-items: center;
+}
+.md-page-author__name { font-weight: 600; color: var(--md-typeset-a-color); }
+.md-page-author__date { color: var(--md-default-fg-color--light); font-size: .9rem; }
