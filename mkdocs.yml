@@ -27,6 +27,7 @@ theme:
 
   plugins:
     - search
+    - material/tags
     - mkdocstrings
     - mermaid2
     - awesome-pages
