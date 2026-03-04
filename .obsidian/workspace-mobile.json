@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Home.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Home"
+              "title": "README"
             }
           }
         ]
@@ -178,6 +178,7 @@
   },
   "active": "8faf7e193c4bdd14",
   "lastOpenFiles": [
+    "docs/Home.md",
     "docs/FAQ.md",
     "docs/setup/index.md",
     "docs/Self Hosting/Deployment.md",
@@ -186,10 +187,9 @@
     "docs/Commands.md",
     "docs/Configuration.md",
     "docs/Contributing.md",
-    "docs/Home.md",
     "docs/installation.md",
     "docs/Project History.md",
-    "docs/Version History & Changelog.md",
+    "docs/Changelog.md",
     "docs/links.md",
     "docs/overview.md",
     "docs/getting-started.md",
