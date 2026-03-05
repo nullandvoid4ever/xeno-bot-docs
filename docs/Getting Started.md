@@ -19,8 +19,7 @@ aliases:
   - /start/
   - /starting/
 ---
-# Getting Started
--# Use /hunt **TWICE** if its your first time using the bot! (its just a bug with new users)
+Use /hunt **TWICE** if its your first time using the bot! (its just a bug with new users)
 
 You start off with one egg that you can hatch to begin hunting for hosts!
 
