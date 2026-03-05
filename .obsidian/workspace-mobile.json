@@ -206,12 +206,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "ec194df0b7125105",
+  "active": "65dcb6c80d067d53",
   "lastOpenFiles": [
-    "docs/FAQ.md",
-    "docs/Getting Started.md",
-    "docs/Index.md",
     "docs/Roadmap.md",
+    "README.md",
+    "docs/Getting Started.md",
+    "docs/FAQ.md",
+    "docs/Index.md",
     "docs/Changelog.md",
     "docs/Contributing.md",
     "Untitled.md",
@@ -252,7 +253,6 @@
     "/docs/Contributing.md",
     "/docs/Changelog.md",
     "/docs/blog/posts/index.md",
-    "/README.md",
-    "README.md"
+    "/README.md"
   ]
 }

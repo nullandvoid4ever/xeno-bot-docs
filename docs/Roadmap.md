@@ -17,7 +17,6 @@ toc: true
 icon: material/help-circle
 aliases:
   - /roadmaps/
-  - /Example/
 ---
 - [ ] Server blacklisting
 - [ ] Hive removing members
