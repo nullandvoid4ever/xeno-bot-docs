@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Roadmap.md",
+                "file": "docs/Getting Started.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Roadmap"
+              "title": "Getting Started"
             }
           }
         ],
@@ -208,8 +208,10 @@
   },
   "active": "65dcb6c80d067d53",
   "lastOpenFiles": [
-    "docs/Getting Started.md",
+    "/docs/Getting Started.md",
+    "/docs",
     "docs/Roadmap.md",
+    "docs/Getting Started.md",
     "README.md",
     "docs/FAQ.md",
     "docs/Index.md",
@@ -242,7 +244,6 @@
     "docs/blog/posts",
     "docs/blog",
     "/overrides/partials/tags.html",
-    "/overrides/partials/footer-old.html",
     "/docs/Self Hosting/installation.md",
     "/docs/Self Hosting/Deployment.md",
     "/docs/Self Hosting/Configuration.md",
@@ -252,7 +253,6 @@
     "/docs/FAQ.md",
     "/docs/Contributing.md",
     "/docs/Changelog.md",
-    "/docs/blog/posts/index.md",
-    "/README.md"
+    "/docs/blog/posts/index.md"
   ]
 }
