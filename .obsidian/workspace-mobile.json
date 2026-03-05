@@ -39,10 +39,14 @@
             "id": "ec194df0b7125105",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "docs/Getting Started.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Getting Started"
             }
           }
         ],
@@ -204,20 +208,21 @@
   },
   "active": "ec194df0b7125105",
   "lastOpenFiles": [
+    "docs/Index.md",
+    "docs/Roadmap.md",
+    "docs/Changelog.md",
+    "docs/Contributing.md",
+    "docs/FAQ.md",
+    "docs/Getting Started.md",
+    "Untitled.md",
     "docs/Self Hosting/Configuration.md",
     "docs/Self Hosting/installation.md",
     "docs/Self Hosting/Deployment.md",
-    "docs/Changelog.md",
-    "docs/Roadmap.md",
-    "docs/Index.md",
     "docs/blog/posts/index.md",
-    "Untitled.md",
     "Untitled 1.md",
-    "docs/Contributing.md",
     "docs/Templates/Page Template.md",
     "docs/Templates",
     "Roadmap.md",
-    "docs/FAQ.md",
     "docs/img/emojis/egg_crate.png",
     "docs/img/emojis/chestburster2.png",
     "docs/img/emojis/chestburster_walk_right.gif",
@@ -248,7 +253,6 @@
     "/docs/Changelog.md",
     "/docs/blog/posts/index.md",
     "/README.md",
-    "README.md",
-    "docs/Home.md"
+    "README.md"
   ]
 }

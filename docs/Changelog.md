@@ -1,15 +1,23 @@
 ---
 title: Changelog
 description: View the full changelog of xeno-bot's development progress, including all features, improvements, and fixes across versions. Each version entry includes a summary of changes and links to relevant commits for more details.
-tags: [changelog, updates, release notes]
-keywords: [xeno, bot, changelog, documentation]
+tags:
+  - changelog
+  - updates
+keywords:
+  - xeno
+  - bot
+  - changelog
+  - documentation
 author: Devvyyxyz
 image: assets/images/faq-og.png
 date: 2026-03-04
 permalink: /changelog/
 toc: true
 icon: material/help-circle
-aliases: [/changelog/, /release-notes/]
+aliases:
+  - /changelog/
+  - /release-notes/
 ---
 
 View the full changelog of xeno-bot's development progress, including all features, improvements, and fixes across versions. Each version entry includes a summary of changes and links to relevant commits for more details.

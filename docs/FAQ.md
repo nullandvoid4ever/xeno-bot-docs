@@ -31,25 +31,25 @@ To catch an egg type `egg` in the configured spawn channel
 
 Run the `/inventory` command and navigate to the respected menu.
 
-## gameplay questions
+## Gameplay Questions
 
 > **Q: How do I evolve my xenomorphs?**
 
-To evolve your xenomorphs, you need to have the required hosts and eggs. Once you have them, you can use the `/evolve` command and select the xenomorph you want to evolve.
+To evolve your xenomorphs, you need to have the required hosts and eggs (some pathways do not require hosts). Once you have them, you can use the `/evolve start` command and select the xenomorph you want to evolve.
 
 > **Q: How do I manage my hive?**
 
-To manage your hive, you can use the `/hive` command. This will allow you to view your hive, assign xenomorphs to different tasks, and manage your resources.
+To manage your hive, you can use the `/hive` command. This will allow you to view your hive, assign xenomorph, upgrade modules & manage your resources.
 
-## multiplayer questions
+## Multiplayer Questions
 
 > **Q: How do I battle other players?**
 
 To battle other players, you can use the `/battle` command. This will allow you to challenge other players to a battle and test the strength of your xenomorphs.
 
-> **Q: How do I join a guild?**
+> **Q: How do I join a faction?**
 
-To join a guild, you can use the `/guild` command. This will allow you to view available guilds and request to join one that interests you.
+To join a guild, you can use the `/faction` command. This will allow you to view available factions and request to join one that interests you.
 
 > **Q: How do I earn rewards?**
 
