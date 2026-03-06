@@ -41,6 +41,7 @@ plugins:
   - git-authors
   - include-markdown
   - macros
+  - table-reader
   - i18n:
       languages:
         - locale: en
@@ -110,5 +111,9 @@ markdown_extensions:
 extra_css:
   - css/extra.css
   - css/neoteroi-mkdocs.css
+
+extra_javascript:
+  - https://unpkg.com/tablesort@5.3.0/dist/tablesort.min.js
+  - javascripts/tablesort.js
 
 copyright: Copyright &copy; Devvyyxyz
