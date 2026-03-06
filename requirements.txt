@@ -13,3 +13,4 @@ mkdocs-git-authors-plugin
 mkdocs-include-markdown-plugin
 mkdocs-git-revision-date-localized-plugin
 mkdocs-macros-plugin
+neoteroi-mkdocs
