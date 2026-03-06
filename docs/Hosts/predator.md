@@ -1,5 +1,5 @@
 ---
-title: Template
+title: Predator Host
 description:
 tags:
 keywords:
@@ -9,9 +9,9 @@ keywords:
 author: Devvyyxyz
 image:
 date: 2026-03-04
-permalink: /template/
+permalink: /predator-host/
 toc: true
 icon: material/file-document
 aliases:
-  - /template/
+  - /predator-host/
 ---

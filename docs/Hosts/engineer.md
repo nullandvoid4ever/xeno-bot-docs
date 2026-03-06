@@ -1,5 +1,5 @@
 ---
-title: Template
+title: Engineer Hist
 description:
 tags:
 keywords:
@@ -9,9 +9,9 @@ keywords:
 author: Devvyyxyz
 image:
 date: 2026-03-04
-permalink: /template/
+permalink: /engineer-host/
 toc: true
 icon: material/file-document
 aliases:
-  - /template/
+  - /engineer-host/
 ---

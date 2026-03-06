@@ -1,5 +1,5 @@
 ---
-title: Template
+title: Dog Host
 description:
 tags:
 keywords:
@@ -9,9 +9,9 @@ keywords:
 author: Devvyyxyz
 image:
 date: 2026-03-04
-permalink: /template/
+permalink: /dog-host/
 toc: true
 icon: material/file-document
 aliases:
-  - /template/
+  - /dog-host/
 ---

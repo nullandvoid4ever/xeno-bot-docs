@@ -1,17 +1,21 @@
 ---
-title: Template
+title: Human Host
 description:
 tags:
+  - template
+  - example
+  - guide
 keywords:
   - xeno
   - bot
+  - template
   - documentation
 author: Devvyyxyz
 image:
 date: 2026-03-04
-permalink: /template/
+permalink: /human-host/
 toc: true
 icon: material/file-document
 aliases:
-  - /template/
+  - /human-host/
 ---
