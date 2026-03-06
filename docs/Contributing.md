@@ -15,6 +15,7 @@ aliases: [/contributing/, /contributing-guidelines/]
 Thank you for helping improve the docs and project. This file explains the recommended workflow for proposing documentation and code changes, how to run the docs locally, and how to get help.
 
 ----
+
 ## Suggested workflow
 
 - Use the **Edit this page** link on any documentation page to propose documentation changes. That opens the source file on GitHub — make an edit and submit a pull request.
@@ -29,7 +30,7 @@ Thank you for helping improve the docs and project. This file explains the recom
 
 ## Editing docs locally
 
-- Use the page template at [Page Template](Page Template.md) when creating a new documentation page.
+- Use the page template at [Page Template](Templates/Page%20Template.md) when creating a new documentation page.
 
 1. Create and activate a Python venv in the repository root:
 

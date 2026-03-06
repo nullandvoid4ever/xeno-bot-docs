@@ -103,11 +103,12 @@ markdown_extensions:
   - pymdownx.tilde
   - attr_list
   - md_in_html
-  - pymdownx.superfences
   - tables
   - footnotes
+  - neoteroi.timeline
 
 extra_css:
   - css/extra.css
+  - css/neoteroi-mkdocs.css
 
 copyright: Copyright &copy; Devvyyxyz
