@@ -75,3 +75,31 @@ pre {
 }
 .md-page-author__name { font-weight: 600; color: var(--md-typeset-a-color); }
 .md-page-author__date { color: var(--md-default-fg-color--light); font-size: .9rem; }
+
+/* Inline image utilities: use on <img> to float and wrap text */
+.inline-img {
+  max-width: 40%;
+  height: auto;
+  margin: 0 1rem 0.5rem 0;
+  vertical-align: middle;
+}
+.align-left { float: left; }
+.align-right { float: right; margin-left: 1rem; }
+.clear-inline { clear: both; }
+
+/* When an inline image directly follows a heading, reduce the top gap */
+.md-content h2 + .inline-img,
+.md-content h3 + .inline-img,
+.md-content h4 + .inline-img {
+  margin-top: 0.15rem;
+}
+
+/* Responsive: disable floats on narrow viewports so images stack */
+@media (max-width: 900px) {
+  .inline-img {
+    float: none;
+    display: block;
+    margin: 0 auto 1rem;
+    max-width: 40%;
+  }
+}

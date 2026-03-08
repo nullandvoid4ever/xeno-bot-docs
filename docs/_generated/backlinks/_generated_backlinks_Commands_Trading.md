@@ -1,0 +1,1 @@
+- [Trading](/_generated/backlinks/Commands_)

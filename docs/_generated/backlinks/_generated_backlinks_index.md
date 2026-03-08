@@ -1,0 +1,4 @@
+- [:octicons-arrow-right-24: Configuration](/_generated/backlinks/_generated_backlinks_Self Hosting_Configuration)
+- [:octicons-arrow-right-24: Getting Started](/_generated/backlinks/_generated_backlinks_Getting Started)
+- [:octicons-arrow-right-24: Installation](/_generated/backlinks/_generated_backlinks_Self Hosting_installation)
+- [:octicons-arrow-right-24: Open FAQ](/_generated/backlinks/_generated_backlinks_faq_)

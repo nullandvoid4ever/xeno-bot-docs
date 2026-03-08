@@ -1,5 +1,5 @@
 ---
-title: Template
+title: Space Jockey Host
 description:
 tags:
 keywords:

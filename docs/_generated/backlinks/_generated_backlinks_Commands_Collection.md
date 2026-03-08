@@ -1,0 +1,2 @@
+- [Collection](/_generated/backlinks/Commands_)
+- [Encyclopedia command](/_generated/backlinks/Pathways)
