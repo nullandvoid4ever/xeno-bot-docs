@@ -18,6 +18,18 @@ permalink: /eggs/
 toc: true
 icon: material/egg
 ---
-Current eggs implented and various stats associated with them:
+
+Discover the different types of eggs currently implemented, their unique attributes, and trading relevance.
+
+Eggs are an essential part of [trading], offering various statistics and values. Learn more about the characteristics of each egg below.
+
+## Detailed Statistics  
+The table below outlines critical stats for all currently implemented eggs:
 
 {{ read_csv('data/egg_stats.csv', sep = ';') }}
+
+----
+
+## Related Resources
+- [How To Analyze Egg Statistics](analysis.md)  
+- [Trading Tips And Strategies](tips-and-tricks.md)

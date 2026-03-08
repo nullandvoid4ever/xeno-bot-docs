@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Contributing.md",
+                "file": "docs/Self Hosting/Configuration.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Contributing"
+              "title": "Configuration"
             }
           }
         ],
@@ -208,15 +208,19 @@
   },
   "active": "ec194df0b7125105",
   "lastOpenFiles": [
+    "docs/Contributing.md",
+    "docs/Self Hosting/Configuration.md",
+    "docs/trading/tips-and-tricks.md",
+    "docs/Eggs.md",
+    "docs/trading",
+    "docs/eggs/analysis.md",
+    "docs/eggs",
     "docs/Getting Started.md",
     "docs/FAQ.md",
-    "docs/Contributing.md",
     "docs/Templates.md",
     "Templates.md",
-    "docs/Self Hosting/Configuration.md",
     "docs/history.md",
     "docs/Roadmap.md",
-    "docs/Eggs.md",
     "docs/Templates/basic-template.md",
     "docs/Templates/host-template.md",
     "docs/Templates/xenomorph-template.md",
@@ -236,14 +240,10 @@
     "docs/_generated/backlinks/Commands_index.md",
     "docs/_generated/backlinks/img_emojis_neomorph.png_index.md",
     "docs/_generated/backlinks/_generated_backlinks_Pathways.md",
-    "docs/_generated/backlinks/Pathways.md",
-    "docs/_generated/backlinks/img_emojis_king.png_index.md",
     "docs/_generated/backlinks",
     "/scripts/generate_contributors.py",
     "/scripts/generate_backlinks.py",
     "/overrides/partials/footer.html",
-    "overrides/partials/footer.html",
-    "/overrides/partials",
     "docs/img/banners/LV-426.png",
     "/docs/img/banners/LV-426.png",
     "docs/img/emojis/egg_crate.png",
