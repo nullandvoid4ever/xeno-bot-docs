@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Self Hosting/Configuration.md",
+                "file": "docs/Self-Hosting/Deployment.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Configuration"
+              "title": "Deployment"
             }
           }
         ],
@@ -208,8 +208,10 @@
   },
   "active": "ec194df0b7125105",
   "lastOpenFiles": [
+    "configuration.md",
+    "docs/Self-Hosting/Deployment.md",
+    "docs/Self-Hosting/Configuration.md",
     "docs/Contributing.md",
-    "docs/Self Hosting/Configuration.md",
     "docs/trading/tips-and-tricks.md",
     "docs/Eggs.md",
     "docs/trading",
@@ -238,8 +240,6 @@
     "docs/_generated/backlinks/_generated_backlinks_img_emojis_egg.png__index.md",
     "docs/_generated/backlinks/img_emojis_predalien.png_index.md",
     "docs/_generated/backlinks/Commands_index.md",
-    "docs/_generated/backlinks/img_emojis_neomorph.png_index.md",
-    "docs/_generated/backlinks/_generated_backlinks_Pathways.md",
     "docs/_generated/backlinks",
     "/scripts/generate_contributors.py",
     "/scripts/generate_backlinks.py",
