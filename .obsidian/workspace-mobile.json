@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Self-Hosting/Deployment.md",
+                "file": "docs/Commands/Gambling.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Deployment"
+              "title": "Gambling"
             }
           }
         ],
@@ -208,9 +208,14 @@
   },
   "active": "ec194df0b7125105",
   "lastOpenFiles": [
-    "configuration.md",
+    "docs/Commands/Administration.md",
+    "docs/Commands/Gambling.md",
+    "docs/Templates/xenomorph-template.md",
+    "docs/FAQ.md",
+    "docs/Self-Hosting/installation.md",
     "docs/Self-Hosting/Deployment.md",
     "docs/Self-Hosting/Configuration.md",
+    "configuration.md",
     "docs/Contributing.md",
     "docs/trading/tips-and-tricks.md",
     "docs/Eggs.md",
@@ -218,14 +223,12 @@
     "docs/eggs/analysis.md",
     "docs/eggs",
     "docs/Getting Started.md",
-    "docs/FAQ.md",
     "docs/Templates.md",
     "Templates.md",
     "docs/history.md",
     "docs/Roadmap.md",
     "docs/Templates/basic-template.md",
     "docs/Templates/host-template.md",
-    "docs/Templates/xenomorph-template.md",
     "docs/Xenomorphs/Predalien/index.md",
     "docs/_generated/contributors_auto.md",
     "docs/_generated/backlinks/_generated_backlinks_Commands_Information.md",
@@ -237,9 +240,6 @@
     "docs/_generated/backlinks/_generated_backlinks_img_emojis_atom.png_index.md",
     "docs/_generated/backlinks/_generated_backlinks_Self Hosting_installation.md",
     "docs/_generated/backlinks/Hosts_dog.md",
-    "docs/_generated/backlinks/_generated_backlinks_img_emojis_egg.png__index.md",
-    "docs/_generated/backlinks/img_emojis_predalien.png_index.md",
-    "docs/_generated/backlinks/Commands_index.md",
     "docs/_generated/backlinks",
     "/scripts/generate_contributors.py",
     "/scripts/generate_backlinks.py",
